@@ -1,0 +1,6 @@
+{
+  "name": "دفتر المعلم - إدارة المواعيد والدخل والطلاب",
+  "description": "نظام احترافي لإدارة مواعيد الحصص، متابعة دخل المعلم المالي، سجل الطلاب، تقويم الأسبوع والشهر، والتنبؤ بالأرباح والتقارير الأكاديمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
